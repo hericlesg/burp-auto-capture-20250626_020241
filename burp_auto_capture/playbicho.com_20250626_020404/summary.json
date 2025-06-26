@@ -1,0 +1,295 @@
+{
+  "capture_timestamp": "20250626_020404", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_001.txt", 
+      "url": "https://playbicho.com:443/api/auth/providers", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_001.txt", 
+      "timestamp": 1750914176179
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_002.txt", 
+      "url": "https://playbicho.com:443/api/auth/csrf", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_002.txt", 
+      "timestamp": 1750914176243
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_003.txt", 
+      "url": "https://playbicho.com:443/api/auth/callback/credentials", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_003.txt", 
+      "timestamp": 1750914177198
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_004.txt", 
+      "url": "https://playbicho.com:443/api/auth/session", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_004.txt", 
+      "timestamp": 1750914177263
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_005.txt", 
+      "url": "https://playbicho.com:443/", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_005.txt", 
+      "timestamp": 1750914177366
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_006.txt", 
+      "url": "https://playbicho.com:443/", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_006.txt", 
+      "timestamp": 1750914177445
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_007.txt", 
+      "url": "https://playbicho.com:443/", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_007.txt", 
+      "timestamp": 1750914177506
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_008.txt", 
+      "url": "https://playbicho.com:443/", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_008.txt", 
+      "timestamp": 1750914177569
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_009.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_009.txt", 
+      "timestamp": 1750914185192
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_010.txt", 
+      "url": "https://playbicho.com:443/", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_010.txt", 
+      "timestamp": 1750914191844
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_011.txt", 
+      "url": "https://playbicho.com:443/api/auth/session", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_011.txt", 
+      "timestamp": 1750914197818
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_012.txt", 
+      "url": "https://playbicho.com:443/api/auth/_log", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_012.txt", 
+      "timestamp": 1750914200848
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_013.txt", 
+      "url": "https://playbicho.com:443/jogo/centena-invertida?_rsc=1wtp7", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_013.txt", 
+      "timestamp": 1750914200866
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_014.txt", 
+      "url": "https://playbicho.com:443/jogo/milhar-invertida?_rsc=1wtp7", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_014.txt", 
+      "timestamp": 1750914200894
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_015.txt", 
+      "url": "https://playbicho.com:443/jogo/passe-vai-1-2?_rsc=1wtp7", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_015.txt", 
+      "timestamp": 1750914200974
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_016.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_016.txt", 
+      "timestamp": 1750914201156
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_017.txt", 
+      "url": "https://playbicho.com:443/_vercel/insights/view", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_017.txt", 
+      "timestamp": 1750914201335
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_018.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_018.txt", 
+      "timestamp": 1750914214999
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_019.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_019.txt", 
+      "timestamp": 1750914216207
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_020.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_020.txt", 
+      "timestamp": 1750914217456
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_021.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_021.txt", 
+      "timestamp": 1750914218666
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_022.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_022.txt", 
+      "timestamp": 1750914219882
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_023.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_023.txt", 
+      "timestamp": 1750914221250
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_024.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_024.txt", 
+      "timestamp": 1750914222481
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_025.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_025.txt", 
+      "timestamp": 1750914223655
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_026.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_026.txt", 
+      "timestamp": 1750914224984
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_027.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_027.txt", 
+      "timestamp": 1750914226161
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_028.txt", 
+      "url": "https://playbicho.com:443/?_rsc=1rc8f", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_028.txt", 
+      "timestamp": 1750914226179
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_029.txt", 
+      "url": "https://playbicho.com:443/depositar?_rsc=1rc8f", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_029.txt", 
+      "timestamp": 1750914226214
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_030.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_030.txt", 
+      "timestamp": 1750914227444
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_031.txt", 
+      "url": "https://playbicho.com:443/jogo/passe-vai-1-2?_rsc=1rc8f", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_031.txt", 
+      "timestamp": 1750914227469
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_032.txt", 
+      "url": "https://playbicho.com:443/jogo/milhar-invertida?_rsc=1rc8f", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_032.txt", 
+      "timestamp": 1750914227471
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_033.txt", 
+      "url": "https://playbicho.com:443/jogo/centena-invertida?_rsc=1rc8f", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_033.txt", 
+      "timestamp": 1750914227484
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_034.txt", 
+      "url": "https://playbicho.com:443/jogo/passe-vai-1-5?_rsc=1rc8f", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_034.txt", 
+      "timestamp": 1750914227579
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_035.txt", 
+      "url": "https://playbicho.com:443/jogo/milhar-centena?_rsc=1rc8f", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_035.txt", 
+      "timestamp": 1750914227590
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/playbicho.com_20250626_020404/request_036.txt", 
+      "url": "https://playbicho.com:443/jogo/roleta", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/playbicho.com_20250626_020404/response_036.txt", 
+      "timestamp": 1750914228675
+    }
+  ], 
+  "host": "playbicho.com", 
+  "total_requests": 36
+}
