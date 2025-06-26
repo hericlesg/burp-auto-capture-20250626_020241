@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20250626_020600", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/request_001.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=rvmofoxu17gu&t=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/response_001.txt", 
+      "timestamp": 1750914192323
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/request_002.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=UxyaYiPNNnDASGiiZsfCalN-FoVy0AVWrbDB0ZYWkeM&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=IX94KE0NCPKXcPnfo3DOmw&AID=0&CI=0&TYPE=xmlhttp&zx=ailpe6la2dia&t=4", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/response_002.txt", 
+      "timestamp": 1750914217617
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/request_003.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=4aox3nruznqh&t=2", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/response_003.txt", 
+      "timestamp": 1750914244261
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/request_004.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=kt8uh8m29loq&t=3", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020600/response_004.txt", 
+      "timestamp": 1750914314850
+    }
+  ], 
+  "host": "signaler-pa.clients6.google.com", 
+  "total_requests": 4
+}
