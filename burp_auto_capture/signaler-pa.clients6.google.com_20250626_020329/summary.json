@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250626_020329", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020329/request_001.txt", 
+      "url": "https://signaler-pa.clients6.google.com:443/punctual/multi-watch/channel?VER=8&gsessionid=rflcnY9vxiNEWqQsdMpCKsfH-dpRBvHWzzh03RbsAoc&key=AIzaSyCIMH2ks6VPAfRC2lqU_Snz1Lo76XGdnlc&RID=rpc&SID=OTJF8m7c5DB4ffwZg2jTbQ&AID=0&CI=0&TYPE=xmlhttp&zx=rvmofoxu17gu&t=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/signaler-pa.clients6.google.com_20250626_020329/response_001.txt", 
+      "timestamp": 1750914192323
+    }
+  ], 
+  "host": "signaler-pa.clients6.google.com", 
+  "total_requests": 1
+}
